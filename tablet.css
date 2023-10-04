@@ -1,0 +1,23 @@
+@media only screen and (min-width: 577px) and (max-width: 991px) {
+  #cover {
+    position: relative;
+  }
+  .slogan {
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    color: azure;
+  }
+  .slogan p {
+    font-size: 24px;
+  }
+  .slogan h1 {
+    color: #6bcda6;
+  }
+  .img-about {
+    border-radius: 20px;
+  }
+  .about-content {
+    gap: 50px;
+  }
+}

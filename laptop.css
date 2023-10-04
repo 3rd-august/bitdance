@@ -1,0 +1,28 @@
+@media screen and (min-width: 992px) {
+  #navbarNav {
+    justify-content: end;
+    font-size: 20px;
+  }
+  #cover {
+    position: relative;
+  }
+  .container {
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+  .slogan {
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    color: azure;
+  }
+  .slogan p {
+    font-size: 32px;
+  }
+  .slogan h1 {
+    color: #6bcda6;
+  }
+  .img-about {
+    border-radius: 20px;
+  }
+}
